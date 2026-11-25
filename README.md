@@ -14,9 +14,14 @@
 [![Android Sdk Require](https://img.shields.io/badge/Android-6.0%2B-informational?logo=android)](https://developer.android.com/jetpack/androidx/versions#version-table)
 [![GitHub](https://img.shields.io/github/license/aaa1115910/bv)](https://github.com/aaa1115910/bv)
 
-**BV 无法在中国大陆地区内的智能电视上使用，如有相关使用需求请使用 [云视听小电视](https://app.bilibili.com)**
+~~解锁中国大陆检测~~
+~~BV 无法在中国大陆地区内的智能电视上使用，如有相关使用需求请使用 云视听小电视~~
+~~禁止在中国境内传播、宣传、分发 BV~~
 
-**禁止在中国境内传播、宣传、分发 BV**
+本复刻项目仅用于技术学习与研究，请勿用于违规用途。
+请遵守所在地区法律法规，合理使用本项目。
+若有版权相关问题，请联系本人处理。
+
 
 </div>
 
